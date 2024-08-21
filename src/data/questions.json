@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Madrid"],
+    "answer": "Paris",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "4",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who wrote the play Romeo and Juliet?",
+    "options": ["Charles Dickens", " William Shakespeare", " Mark Twain", "Jane Austen"],
+    "answer": "William Shakespeare",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean", " Pacific Ocean"],
+    "answer": "Pacific Ocean",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["Oxygen", "Gold", "Silver", "Nitrogen"],
+    "answer": "Oxygen",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In which year did the Titanic sink",
+    "options": ["1912", "1905", "1920", "1918"],
+    "answer": " 1912",
+    "difficulty": "difficult"
+  },
+  {
+    "question": "Which is the smallest country in the world by land area?",
+    "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+    "answer": "Vatican City",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which animal is known as the King of the Jungle",
+    "options": ["Tiger", "Elephant", "Lion", "Gorilla"],
+    "answer": "Lion",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci", "Claude Monet"],
+    "answer": "Leonardo da Vinci",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which country is the largest by land area?",
+    "options": ["Canada", "China", "United States", "Russia"],
+    "answer": "Russia",
+    "difficulty": "easy"
+  }
+]
