@@ -2,6 +2,20 @@
 html css ve javascript kullanarak gerçekleştirilmiş bir quiz web uygulamsıdır.React kullanılmıştır.
 Soruların bir süresi,zorluk seviysesi vardır.Ve yanıtların tek tek değerelndirilip en sonunda skorun sunulması amaçlanmıştır.
 
+Günlük Raporlar
+
+1.gün
+Projeyle ilgili videonun izlenip araştırmalar yapıldı. Planlamayla beraber kodlamaya başlanıldı.
+
+2.gün
+Quiz mantığına uygun soruların hazırlanması,sürenin tutulması,soruların zorluk seviyelerinin belirlenmesi
+cevaba yönelik doğruluk kontrolü ve toplam skorun hesaplanması gibi işlemler eklenrek proje tamamlandı.
+
+3.gün
+Commit işlemleri yapıldı ve githuba eklendi.Sunum hazırlandı.
+
+
+
 
 my-app
         /node_modules
